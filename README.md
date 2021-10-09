@@ -1,4 +1,4 @@
-This platform will allow customers to but the next bottle of the product at a lower price returning the bottle to the store after purchasing it.Glass companies and shops that receive glass packaging products from those companies, as well as customers who use these products, are in our point of view. 
+This platform will allow customers to buy the next bottle of the product at a lower price by returning the bottle to the store after purchasing it.Glass companies and shops that receive glass packaging products from those companies, as well as customers who use these products, are in our point of view. 
 
 ## Table of contents
 - [Screenshots](#screenshots)
