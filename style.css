@@ -276,7 +276,7 @@ footer .container {
 footer h1,h2,h4{
     font-weight: 400;
 }
-.links ul{
+.links ul,#contacts ul{
     display:flex;
     flex-direction: row;
     flex-wrap: wrap;
