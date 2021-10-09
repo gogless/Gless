@@ -292,6 +292,9 @@ footer h1,h2,h4{
     justify-content: center;
     flex-wrap:wrap;
 }
+    .columns .box div{
+    width:100%;
+}
 .intro-text h1{
     font-size:3em;
 }
