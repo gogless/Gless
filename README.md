@@ -14,7 +14,7 @@ This platform will allow customers to but the next bottle of the product at a lo
 ![](./screenshot-mobile.png)
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://gogless.github.io/Gless/](https://gogless.github.io/Gless/)
 
 ### Built with
 
