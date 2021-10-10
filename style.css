@@ -284,7 +284,7 @@ footer h1,h2,h4{
 .links ul li{
     padding-right:20px;
 }
-@media(max-width:768px){
+@media(max-width:850px){
     .container-1{
     width:90%;
     display:flex;
