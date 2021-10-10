@@ -189,7 +189,7 @@ nav .container{
 #whatweoffer .columns{
     display:grid;
     grid-template-columns: repeat(3,1fr);
-    column-gap: 3.5em;
+    column-gap: 1em;
     font-family:'Lato',sans-serif;
     color:#42495B;
 }
